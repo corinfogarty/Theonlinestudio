@@ -1,0 +1,4 @@
+AuthUserFile /var/www/vhosts/theonlinestudio.co.uk/.htpasswd
+AuthType Basic
+AuthName "My Secret Folder"
+Require valid-user
