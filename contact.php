@@ -4,7 +4,7 @@
 			<div id="contact">
 		<!-- intro -->
 			<div id="intro">
-			<h2>To get in touch, please use the form below or email us at hello@theonlinestudio.co.uk </h2>
+			<h2>To get in touch, please use  the form below or email us at hello@theonlinestudio.co.uk </h2>
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/_inc/fb.php') ?>		</div>
 			<!-- slider -->
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/_inc/slideshow.php') ?>	
